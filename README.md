@@ -7,5 +7,5 @@ This project was to develop a recycling sorting machine while including a roboti
 With the help of infrared, capacitive, inductive, and photoelectric sensors, our team was able to develop a combination to determine the difference and sort between glass (clear), plastic (clear), metals, and paper objects, specifically cups.
 The project also includes stepper motors to control our conveyor to transfer the objects in addition to the servo motors used for the robotic arm, as well as a LCD display for the HMI (Human Machine Interface), and joystick control to allow a user to manually control the robotic arm.
 
-<a href="https://photos.app.goo.gl/DfWoEaadmXG3w4Ev5">
+<href="https://photos.app.goo.gl/DfWoEaadmXG3w4Ev5">
 
