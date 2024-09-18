@@ -8,3 +8,5 @@ With the help of infrared, capacitive, inductive, and photoelectric sensors, our
 The project also includes stepper motors to control our conveyor to transfer the objects in addition to the servo motors used for the robotic arm, as well as a LCD display for the HMI (Human Machine Interface), and joystick control to allow a user to manually control the robotic arm.
 
 [![Watch the video](https://img.youtube.com/vi/watch?v=9twqcwSKyeY)](https://www.youtube.com/watch?v=9twqcwSKyeY)
+
+[![Watch the video](https://img.youtube.com/vi/watch?v=9twqcwSKyeY/0.jpg)](https://www.youtube.com/watch?v=watch?v=9twqcwSKyeY)
